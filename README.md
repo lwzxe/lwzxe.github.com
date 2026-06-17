@@ -1,2 +1,2 @@
-# lwzxe.github.com
+# lwzxe.github.io.git
 repositório para exibição de currículo.
